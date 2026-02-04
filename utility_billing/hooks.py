@@ -4,6 +4,7 @@ app_publisher = "Navari Ltd"
 app_description = "Utility Billing & Property Management"
 app_email = "support@navari.co.ke"
 app_license = "agpl-3.0"
+app_version = "0.0.1"
 
 fixtures = [
     {
